@@ -1,6 +1,6 @@
 # SPC4004: Analysing Natural Language Data
 
-A corpus linguistics study analysing the semantic shift of the word **"machine"** in UK Parliamentary discourse between 1900 and 2005, using the Hansard Corpus. Completed as part of the module **Exploring AI: Understanding and Applications (SPC4004)** at Queen Mary University of London.
+A corpus linguistics study analysing the semantic shift of the word **"machine"** in UK Parliamentary discourse between 1900 and 2005, using the Hansard Corpus.
 
 ---
 
